@@ -1,0 +1,24 @@
+
+body{
+  background: url(../images/lol.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.dropdown{
+  margin-top: 5px;
+  color: black;
+}
+
+.btn-custom {
+    margin: 12px 0 0 50px;
+}
+h1{
+  color:black;
+}
+.btn-success:hover {
+    color: #fff;
+    background-color: #000;
+    border-color: #f0f9f0;
+}
